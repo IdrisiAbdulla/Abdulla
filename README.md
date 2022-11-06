@@ -1,20 +1,26 @@
 # JAXL assignment
 
 # Setup instruction
-install vs code
-install node.js
-install mongodb database
-create an account on mongodb.
+<ul>
+  <li>install vs code</li>
+   <li>install node.js</li>
+  <li>install mongodb database</li>
+  <li>create an account on mongodb.</li>
+  </ul>
 # Dependency management
-npm i express
-npm i body-parser
-npm i mongoose
+<ul>
+  <li>npm i express </li>
+  <li>npm i body-parser</li>
+  <li>npm i mongoose</li>
+  </ul>
 # How to try
-first of all registration page will open 
-in which you have to fill the basic information such as
-name ,email,password,phone no.,
-after that you have to click on send otp button which will take you to next page and all the given information will be saved in database
-then you have to authenticate the email ,password ,OTP to reach the home page .
+<ul>
+  <li>first of all registration page will open </li>
+<li>In which you have to fill the basic information such as:</li>
+<li>name ,email,password,phone no.</li>
+<li>After that you have to click on send otp button which will take you to next page and all the given information will be saved in database</li>
+<li>Then you have to authenticate the email ,password ,OTP to reach the home page .</li>
+  </ul>
 
 # Directory
   <ul>
