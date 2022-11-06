@@ -7,12 +7,14 @@
   <li>install mongodb database</li>
   <li>create an account on mongodb.</li>
   </ul>
+  
 # Dependency management
 <ul>
   <li>npm i express </li>
   <li>npm i body-parser</li>
   <li>npm i mongoose</li>
   </ul>
+  
 # How to try
 <ul>
   <li>first of all registration page will open </li>
