@@ -44,9 +44,7 @@
   The bin folder is for any system modules your package will use and/or generate.
   It use for any miscellaneous scripts that may accompany the application,and we have package.json/bin scripts for our module.
   
-  # gulpfile.js
-  Gulp js task runner to run the automated tasks
-  In Large javascript web applications, Gulp is a handy tool to minify the js and css, concatenating library files and compiling sass or less files.
+  
   
   # package
   A package is a file or directory that is described by a package.json file. A package must contain a package.json file in order to be        published to the npm registry.
@@ -75,7 +73,7 @@ The structure of javascript project is like this:
   <li >app.js</li>
   <li> index.html</li>
   </ul>
-  <li> gulpfile.js</li>
+ 
   <li> package.json</li>
   <li>README</li>
  <ul>
